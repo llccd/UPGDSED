@@ -76,7 +76,7 @@
 #define MAX_PATCH_COUNT 10
 
 #define MIN_SUPPORTED_NT_BUILD 7601  //Windows 7 SP1
-#define MAX_SUPPORTED_NT_BUILD 17134 //Windows 10 RS4
+#define MAX_SUPPORTED_NT_BUILD 17763 //Windows 10 RS5
 
 typedef struct _PATCH_CONTEXT {
     ULONG_PTR AddressOfPatch;
